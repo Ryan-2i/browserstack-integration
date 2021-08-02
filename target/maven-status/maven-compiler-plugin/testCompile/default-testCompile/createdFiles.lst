@@ -1,0 +1,9 @@
+API/requests/JsonParsing.class
+Browserstack/BrowserStackSerenityTest.class
+UI/pages/DuckDuckGoPage.class
+UI/stepdefinitions/UISteps.class
+UI/pages/BasePage.class
+CucumberTestSuite.class
+API/requests/ApiBasePage.class
+Browserstack/BrowserStackSerenityDriver.class
+API/stepdefinitions/APISteps.class
